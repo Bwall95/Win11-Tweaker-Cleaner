@@ -1,4 +1,4 @@
-Ensure the "Win11SC.exe" file is in the same directory as the PowerShell script and then un the script named "Run" as admin to complete the following:
+Ensure the "Win11SC.exe" file is in the same directory as the PowerShell script and then run the batch file named "Run" as admin to complete the following:
 - Restores right click context menu (like windows 10)
 - Disables rounded window edges
 - Removes Task View from the Taskbar
